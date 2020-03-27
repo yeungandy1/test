@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-workspace name="Projects" soapui-version="5.5.0" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings/>
+  <con:project status="CLOSED" name="Project 1">C:/Users/ed441/Documents/Project-1-soapui-project.xml</con:project>
+  <con:project name="EmsFps">C:/Users/ed441/Desktop/EMS/OpenAPI/payment notice/EmsFps-soapui-project.xml</con:project>
+  <con:project status="CLOSED" name="REST Project 1">C:/Users/ed441/Documents/REST-Project-1-soapui-project.xml</con:project>
+  <con:project name="EMS">C:/Users/ed441/Documents/Testing-soapui-project.xml</con:project>
+  <con:collectInfoForSupport>false</con:collectInfoForSupport>
+</con:soapui-workspace>
