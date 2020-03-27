@@ -1,0 +1,53 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:soa="http://soaobj.ws.ems.dsbg/">
+   <soapenv:Header/>
+   <soapenv:Body>
+        <soa:msg_SendEmail_Request>
+            <EmsHeader>
+                <CustID>IDK4226011</CustID>
+                <TxDateTime>20170420145922</TxDateTime>
+                <ChannelID>ET</ChannelID>
+                <BankCode>6</BankCode>
+                <SysTraceNum>00026124</SysTraceNum>
+                <TxRefNo>00026125</TxRefNo>
+                <ServiceVersion>1</ServiceVersion>
+                <ReservedbyHost>FI</ReservedbyHost>
+            </EmsHeader>
+            <AccNum/>
+            <FromAddr/>
+            <ToAddr>andyyeung@dahsing.com</ToAddr>
+            <Cc/><Cc/><Cc/><Cc/><Cc/>
+            <Bcc/><Bcc/><Bcc/><Bcc/><Bcc/>
+            <Subject/>
+            <Language/>
+            <MsgType>108</MsgType>
+            <RefNum>A2020031610</RefNum>
+            <TemplateID>10</TemplateID>
+            <TemplateContent></TemplateContent>
+            <TemplateContent>ONE+ ???</TemplateContent>
+            <TemplateContent>https://www.dahsing.com/express/faq</TemplateContent>
+            <TemplateContent>www.transunion.hk</TemplateContent>
+            <TemplateContent>https://www.dahsing.com/express/faq/en</TemplateContent>
+            <TemplateContent>ONE+ Platinum</TemplateContent>
+            <TemplateContent></TemplateContent>
+            <TemplateContent></TemplateContent>
+            <TemplateContent></TemplateContent>
+            <TemplateContent></TemplateContent>
+            <TemplateContent></TemplateContent>
+            <TemplateContent></TemplateContent>
+            <TemplateContent></TemplateContent>
+            <TemplateContent></TemplateContent>
+            <TemplateContent></TemplateContent>
+            <TemplateContent></TemplateContent>
+            <TemplateContent/>
+            <TemplateContent/>
+            <TemplateContent/>
+            <TemplateContent/>
+            <TemplateContent/>
+            <TemplateContent/>
+            <TemplateContent/>
+            <TemplateContent/>
+            <TemplateContent/>
+            <TemplateContent/>
+        </soa:msg_SendEmail_Request>
+    </soapenv:Body>
+</soapenv:Envelope>
